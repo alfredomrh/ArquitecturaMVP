@@ -28,6 +28,10 @@ import android.widget.ProgressBar;
 import com.antonioleiva.mvpexample.app.R;
 import com.antonioleiva.mvpexample.app.main.MainActivity;
 
+/**
+ * esto es un cambio en el portatil
+ */
+
 public class LoginActivity extends Activity implements LoginView, View.OnClickListener {
 
     private ProgressBar progressBar;
